@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/user-rolledex/static/css/main.af6cad13.chunk.css",
+    "main.js": "/github.io/user-rolledex/static/js/main.02fac458.chunk.js",
+    "main.js.map": "/github.io/user-rolledex/static/js/main.02fac458.chunk.js.map",
+    "runtime-main.js": "/github.io/user-rolledex/static/js/runtime-main.e77046c0.js",
+    "runtime-main.js.map": "/github.io/user-rolledex/static/js/runtime-main.e77046c0.js.map",
+    "static/js/2.d27eebc2.chunk.js": "/github.io/user-rolledex/static/js/2.d27eebc2.chunk.js",
+    "static/js/2.d27eebc2.chunk.js.map": "/github.io/user-rolledex/static/js/2.d27eebc2.chunk.js.map",
+    "index.html": "/github.io/user-rolledex/index.html",
+    "precache-manifest.b48c428abca3a2164d315819b636448b.js": "/github.io/user-rolledex/precache-manifest.b48c428abca3a2164d315819b636448b.js",
+    "service-worker.js": "/github.io/user-rolledex/service-worker.js",
+    "static/css/main.af6cad13.chunk.css.map": "/github.io/user-rolledex/static/css/main.af6cad13.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e77046c0.js",
+    "static/js/2.d27eebc2.chunk.js",
+    "static/css/main.af6cad13.chunk.css",
+    "static/js/main.02fac458.chunk.js"
+  ]
+}
