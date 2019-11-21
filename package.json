@@ -5,9 +5,9 @@
   "homepage": "https://serg337/github.io/user-rolledex",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.2.0",
     "uuid": "^3.3.3"
   },
   "scripts": {
